@@ -1,0 +1,31 @@
+#card-container{
+    width: 80%;
+    height: fit-content;
+    margin: auto;
+}
+#card{
+    width: 100%;
+    border:2px solid rgb(99, 62, 208);
+    margin-top: 5%;
+    border-radius: 20px;
+    height: 300px;
+}
+#card h1{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:2%;
+}
+#card p{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:2%;
+}
+#card button{
+    width: 20%;
+    margin-left:2%;
+    border-radius: 5px;
+    height: 30px;
+    outline: none;
+    border: 2px solid rgb(99, 62, 208);
+}
